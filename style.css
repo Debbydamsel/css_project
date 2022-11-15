@@ -1,0 +1,41 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: white;
+    text-align: center;
+}
+
+.first-section {
+    border: 1px dotted green;
+    color: green;
+    font-size: 14px;
+    margin: 0  auto 40px auto;
+    width: 60%;
+    padding: 30px;
+    line-height: 25px;
+    
+}
+.second-section {
+    color: red;
+    font-size: 14px;
+    border: 1px dotted red;
+    margin: 0  auto 40px auto;
+    width: 60%;
+    padding: 30px;
+    line-height: 25px;
+}
+
+.third-section {
+    color: blue;
+    font-size: 14px;
+    border: 1px dotted blue;
+    margin: 0  auto 40px auto;
+    width: 60%;
+    padding: 30px;
+    line-height: 25px;
+}
+
+h1 {
+    font-size: 18px;
+}
